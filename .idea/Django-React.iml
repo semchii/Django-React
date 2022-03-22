@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/membership/membership" />
+        <option name="settingsModule" value="settings.py" />
+        <option name="manageScript" value="manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="migrations" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/membership/frontend/public" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/tryer/test" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/tslib" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/worker/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/import-meta/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/public-path/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/more-workers/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/module-worker/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/simple-bundle/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/dynamic-import/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/single-default/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/assets-in-worker/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/amd-function-name/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/import-worker-url/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/import-meta-worker/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/url-import-meta-worker/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/@surma/rollup-plugin-off-main-thread/tests/fixtures/import-worker-url-custom-scheme/build" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/terser/tools" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/tsutils/node_modules/tslib" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/lz-string/tests" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/sprintf-js/demo" />
+        <option value="$MODULE_DIR$/membership/frontend/node_modules/serve-index/public" />
+      </list>
+    </option>
+  </component>
+</module>
